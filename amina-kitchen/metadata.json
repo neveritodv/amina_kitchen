@@ -1,0 +1,6 @@
+{
+  "name": "Amina Kitchen",
+  "description": "Luxury Moroccan Culinary & Catering Experience with custom handcrafted dishes, seasonal menus, and seamless ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
